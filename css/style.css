@@ -1,0 +1,12 @@
+[ng\:cloak], [ng-cloak], .ng-cloak {
+    display: none !important;
+}
+
+body {
+    background-color: #f8f9fa;
+}
+
+.ticket-desc {
+    font-size: 0.875rem;
+    color: #6c757d;
+}
